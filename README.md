@@ -1,2 +1,2 @@
-# Small-Java
-Small projects made with Java
+# Practice and Learn
+Practicing Java
